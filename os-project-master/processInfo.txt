@@ -1,0 +1,113 @@
+
+carState 1 Is Now In The Memory
+carState 1 Is Now In The Ready Queue
+
+carState 1 Is Now In The  CPU Scheduler
+
+This is the Turn Around Time of carState 1==>>5
+-------------newProcess----------
+
+transmitionState 1 Is Now In The Memory
+transmitionState 1 Is Now In The Ready Queue
+
+transmitionState 1 Is Now In The  CPU Scheduler
+
+This is the Turn Around Time of transmitionState 1==>>1006
+-------------newProcess----------
+drive 1 Is Now In The Memory
+drive 1 Is Now In The Ready Queue
+
+drive 1 Is Now In The  CPU Scheduler
+
+break 1 Is Now In The Memory
+
+break 1 Is Now In The Ready Queue
+
+This is the Turn Around Time of drive 1==>>5009
+-------------newProcess----------
+break 1 Is Now In The  CPU Scheduler
+
+This is the Turn Around Time of break 1==>>10030
+-------------newProcess----------
+drive 2 Is Now In The Memory
+drive 2 Is Now In The Ready Queue
+
+drive 2 Is Now In The  CPU Scheduler
+
+This is the Turn Around Time of drive 2==>>24012
+-------------newProcess----------
+break 2 Is Now In The Memory
+break 2 Is Now In The Ready Queue
+
+break 2 Is Now In The  CPU Scheduler
+
+transmitionState 2 Is Now In The Memory
+
+transmitionState 2 Is Now In The Ready Queue
+
+transmitionState 3 Is Now In The Memory
+
+transmitionState 3 Is Now In The Ready Queue
+
+drive 3 Is Now In The Memory
+
+drive 3 Is Now In The Ready Queue
+
+This is the Turn Around Time of break 2==>>44012
+-------------newProcess----------
+transmitionState 3 Is Now In The  CPU Scheduler
+
+This is the Turn Around Time of transmitionState 3==>>44105
+-------------newProcess----------
+transmitionState 2 Is Now In The  CPU Scheduler
+
+This is the Turn Around Time of transmitionState 2==>>44206
+-------------newProcess----------
+drive 3 Is Now In The  CPU Scheduler
+
+This is the Turn Around Time of drive 3==>>44306
+-------------newProcess----------
+drive 4 Is Now In The Memory
+drive 4 Is Now In The Ready Queue
+
+drive 4 Is Now In The  CPU Scheduler
+
+This is the Turn Around Time of drive 4==>>52011
+-------------newProcess----------
+break 3 Is Now In The Memory
+break 3 Is Now In The Ready Queue
+
+break 3 Is Now In The  CPU Scheduler
+
+This is the Turn Around Time of break 3==>>55012
+-------------newProcess----------
+transmitionState 4 Is Now In The Memory
+transmitionState 4 Is Now In The Ready Queue
+
+transmitionState 4 Is Now In The  CPU Scheduler
+
+This is the Turn Around Time of transmitionState 4==>>61012
+-------------newProcess----------
+drive 5 Is Now In The Memory
+drive 5 Is Now In The Ready Queue
+
+drive 5 Is Now In The  CPU Scheduler
+
+break 4 Is Now In The Memory
+
+break 4 Is Now In The Ready Queue
+
+This is the Turn Around Time of drive 5==>>73032
+-------------newProcess----------
+break 4 Is Now In The  CPU Scheduler
+
+carState 2 Is Now In The Memory
+
+carState 2 Is Now In The Ready Queue
+
+This is the Turn Around Time of break 4==>>74093
+-------------newProcess----------
+carState 2 Is Now In The  CPU Scheduler
+
+This is the Turn Around Time of carState 2==>>74100
+-------------------The Operating System Is Terminated-----------------
